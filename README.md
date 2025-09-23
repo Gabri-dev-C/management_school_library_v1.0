@@ -61,16 +61,19 @@ Sottomenù Prestiti
 
 # Struttura file
 
+## Struttura File
+```
 biblioteca/
 ├── main.cpp              # Codice sorgente principale
 ├── registro_libri.txt    # Database libri (auto-generato)
 ├── registro_alunni.txt   # Database alunni (auto-generato)
 └── registro_prestiti.txt # Database prestiti (auto-generato)
+```
 
 ## Licenza
 
 Questo progetto è rilasciato sotto licenza [MIT](https://opensource.org/licenses/MIT).
 
-# Note:
+## Note:
 
 All'avvio il programma crea automaticamente i file di database se non presenti e carica i dati nei registri.
