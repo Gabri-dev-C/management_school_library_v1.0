@@ -61,7 +61,6 @@ Sottomenù Prestiti
 
 # Struttura file
 
-## Struttura File
 ```
 biblioteca/
 ├── main.cpp              # Codice sorgente principale
