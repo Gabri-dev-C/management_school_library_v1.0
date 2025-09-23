@@ -59,7 +59,7 @@ Sottomenù Prestiti
 3. Esegui il programma (`./biblioteca` su Linux/Mac o `biblioteca.exe` su Windows).
 4. Scegli le operazioni da svolgere tramite il menù.
 
-# Struttura file
+## Struttura file
 
 ```
 biblioteca/
