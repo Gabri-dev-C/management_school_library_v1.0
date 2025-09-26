@@ -1,4 +1,4 @@
-# Gestionale biblioteca scolastica v.1.0
+# Gestionale biblioteca scolastica v1.0
 
 Programma per la gestione della biblioteca scolastica con tre entità di dati:
 - Alunni - anagrafica studenti
