@@ -1,6 +1,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-yellow)
 ![Learning](https://img.shields.io/badge/Learning-C++-orange)
+![Version](https://img.shields.io/badge/Version-2.0-orange)
 
 # Management school library v1.0
 
